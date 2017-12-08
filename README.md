@@ -9,4 +9,4 @@ alias gca="./gradlew clean assemble"
 alias gcat="./gradlew clean assemble test"
 alias gs="./gradlew sonarqube"
 alias gcas="./gradlew clean assemble sonarqube"
-```sh
+```
